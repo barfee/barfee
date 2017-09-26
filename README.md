@@ -10,3 +10,13 @@
   <a href="https://manparvesh.mit-license.org/" target="_blank"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a> 
   
 </div>
+
+### Build instructions
+```
+$ npm install
+$ gulp build 
+```
+
+### Libraries used
+- Google Closure library
+- Gulp
